@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestFragment</string>
+    <string name="btn_Change">Change</string>
+    <string name="new_text">New Text</string>
+</resources>
